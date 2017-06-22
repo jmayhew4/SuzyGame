@@ -1,0 +1,58 @@
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\obj\Debug\Assembly-CSharp.dll
+C:\Users\ropanu\Ro_Important\DOCUMENTS\College\_2017_SPRING\ITSC 4231 - Advanced Game Projects\Suzy Testing 2-8-17\Suzy\Suzy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\obj\Debug\Assembly-CSharp.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\RoPanu\Documents\GitHub\SuzyGame2\Suzy\Temp\bin\Debug\UnityEngine.VR.xml

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: db69460a18f3a9e49a56d4b24eb54cf3
+timeCreated: 1489589681
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bathroom
+    100002: Dining Room
+    100004: DownStairs Bathroom
+    100006: Family Room
+    100008: Foyer
+    100010: Halls
+    100012: //RootNode
+    100014: Kitchen
+    100016: Library
+    100018: Living Room
+    100020: Living Room Second Floor
+    100022: Master Bedroom
+    100024: MasterBath
+    100026: Office
+    100028: Secret Room
+    100030: Suzy's Room001
+    100032: Thomas's Room
+    400000: Bathroom
+    400002: Dining Room
+    400004: DownStairs Bathroom
+    400006: Family Room
+    400008: Foyer
+    400010: Halls
+    400012: //RootNode
+    400014: Kitchen
+    400016: Library
+    400018: Living Room
+    400020: Living Room Second Floor
+    400022: Master Bedroom
+    400024: MasterBath
+    400026: Office
+    400028: Secret Room
+    400030: Suzy's Room001
+    400032: Thomas's Room
+    2300000: Bathroom
+    2300002: Dining Room
+    2300004: DownStairs Bathroom
+    2300006: Family Room
+    2300008: Foyer
+    2300010: Halls
+    2300012: Kitchen
+    2300014: Library
+    2300016: Living Room
+    2300018: Living Room Second Floor
+    2300020: Master Bedroom
+    2300022: MasterBath
+    2300024: Office
+    2300026: Secret Room
+    2300028: Suzy's Room001
+    2300030: Thomas's Room
+    3300000: Bathroom
+    3300002: Dining Room
+    3300004: DownStairs Bathroom
+    3300006: Family Room
+    3300008: Foyer
+    3300010: Halls
+    3300012: Kitchen
+    3300014: Library
+    3300016: Living Room
+    3300018: Living Room Second Floor
+    3300020: Master Bedroom
+    3300022: MasterBath
+    3300024: Office
+    3300026: Secret Room
+    3300028: Suzy's Room001
+    3300030: Thomas's Room
+    4300000: Foyer
+    4300002: Family Room
+    4300004: DownStairs Bathroom
+    4300006: Living Room
+    4300008: Dining Room
+    4300010: Kitchen
+    4300012: Halls
+    4300014: Living Room Second Floor
+    4300016: Thomas's Room
+    4300018: Secret Room
+    4300020: Suzy's Room001
+    4300022: Library
+    4300024: Bathroom
+    4300026: Office
+    4300028: Master Bedroom
+    4300030: MasterBath
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

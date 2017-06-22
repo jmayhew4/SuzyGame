@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: c5604e689ce5e4742ba75931976b00d0
+timeCreated: 1493084009
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bathroom
+    100002: Bathroom Ceiling
+    100004: Bathroom Door
+    100006: Bathroom Door 1
+    100008: Box001
+    100010: Box002
+    100012: Box003
+    100014: Box004
+    100016: Box005
+    100018: Box006
+    100020: Box007
+    100022: Box008
+    100024: Box009
+    100026: Box010
+    100028: Box011
+    100030: Box012
+    100032: Box013
+    100034: Box014
+    100036: Box015
+    100038: Box016
+    100040: Box017
+    100042: Box018
+    100044: Box019
+    100046: Box020
+    100048: Box021
+    100050: Box022
+    100052: Box023
+    100054: Box024
+    100056: Box025
+    100058: Box026
+    100060: Box027
+    100062: Box028
+    100064: Box029
+    100066: Box030
+    100068: Box031
+    100070: Box032
+    100072: Box033
+    100074: Box034
+    100076: Box035
+    100078: Box036
+    100080: Box037
+    100082: Box038
+    100084: Box039
+    100086: Box040
+    100088: Box041
+    100090: Box042
+    100092: Box043
+    100094: Box044
+    100096: Box045
+    100098: Box046
+    100100: Box047
+    100102: Box048
+    100104: Box049
+    100106: Box050
+    100108: Box051
+    100110: Box052
+    100112: Box053
+    100114: Box054
+    100116: Box055
+    100118: Box056
+    100120: Box057
+    100122: Box058
+    100124: Box059
+    100126: Box060
+    100128: Box061
+    100130: Closet Door
+    100132: Dining Room
+    100134: Dining Room Ceiling
+    100136: Door
+    100138: Door Knob
+    100140: Door Knob 1
+    100142: Door Knob001
+    100144: Door Knob002
+    100146: Door Knob003
+    100148: Door Knob004
+    100150: Door Knob005
+    100152: Door Knob006
+    100154: Door Knob007
+    100156: Door Knob008
+    100158: Door Knob009
+    100160: Door Knob010
+    100162: Door Knob011
+    100164: Door Knob012
+    100166: Door Knob013
+    100168: Door Knob014
+    100170: Door Knob015
+    100172: Door Knob016
+    100174: Door Knob017
+    100176: Door Knob018
+    100178: Door Knob019
+    100180: Door Knob020
+    100182: Door Knob021
+    100184: Door Knob022
+    100186: Door Knob023
+    100188: Door Knob024
+    100190: Door Knob025
+    100192: Door Knob026
+    100194: Door Latch
+    100196: Door Latch 1
+    100198: Door Latch 2
+    100200: Door Latch001
+    100202: Door Latch002
+    100204: Door Latch003
+    100206: Door Latch004
+    100208: Door Latch005
+    100210: Door Latch006
+    100212: Door Latch007
+    100214: Door Latch008
+    100216: Door Latch009
+    100218: Door Latch010
+    100220: Door Latch011
+    100222: Door Latch012
+    100224: Door Latch013
+    100226: Door Latch014
+    100228: Door Latch015
+    100230: Door Latch016
+    100232: Door Latch017
+    100234: Door Latch018
+    100236: Door Latch019
+    100238: Door Latch020
+    100240: Door Latch021
+    100242: Door Latch022
+    100244: Door Latch023
+    100246: Door Latch024
+    100248: Door Latch025
+    100250: Door Latch026
+    100252: Door Latch027
+    100254: Door Latch028
+    100256: Door Latch029
+    100258: Door Latch030
+    100260: Door Latch031
+    100262: Door Latch032
+    100264: Door Latch033
+    100266: Door Latch034
+    100268: Door Latch035
+    100270: Door Latch036
+    100272: Door Latch037
+    100274: Door Latch038
+    100276: Door Latch039
+    100278: Door001
+    100280: Door002
+    100282: Door003
+    100284: Door004
+    100286: Door005
+    100288: Door006
+    100290: Door007
+    100292: Door008
+    100294: Door009
+    100296: Door010
+    100298: Door011
+    100300: Door012
+    100302: Door013
+    100304: DownStairs Bathroom
+    100306: Family Room
+    100308: Foyer
+    100310: Foyer Ceiling
+    100312: Frame Latch
+    100314: Frame Latch 1
+    100316: Frame Latch 2
+    100318: Frame Latch001
+    100320: Frame Latch002
+    100322: Frame Latch003
+    100324: Frame Latch004
+    100326: Frame Latch005
+    100328: Frame Latch006
+    100330: Frame Latch007
+    100332: Frame Latch008
+    100334: Frame Latch009
+    100336: Frame Latch010
+    100338: Frame Latch011
+    100340: Frame Latch012
+    100342: Frame Latch013
+    100344: Frame Latch014
+    100346: Frame Latch015
+    100348: Frame Latch016
+    100350: Frame Latch017
+    100352: Frame Latch018
+    100354: Frame Latch019
+    100356: Frame Latch020
+    100358: Frame Latch021
+    100360: Frame Latch022
+    100362: Frame Latch023
+    100364: Frame Latch024
+    100366: Frame Latch025
+    100368: Frame Latch026
+    100370: Frame Latch027
+    100372: Frame Latch028
+    100374: Frame Latch029
+    100376: Frame Latch030
+    100378: Frame Latch031
+    100380: Frame Latch032
+    100382: Frame Latch033
+    100384: Frame Latch034
+    100386: Frame Latch035
+    100388: Frame Latch036
+    100390: Frame Latch037
+    100392: Frame Latch038
+    100394: Frame Latch039
+    100396: Front Door
+    100398: Hall Small Door
+    100400: Halls
+    100402: //RootNode
+    100404: Kitchen
+    100406: Kitchen Door
+    100408: Kitchen/Hall Door
+    100410: Kitcken Ceiling
+    100412: Library
+    100414: Library Door
+    100416: Living Room
+    100418: Living Room Door
+    100420: Living Room Second Floor
+    100422: Maste BT Door
+    100424: Master BD Door
+    100426: Master Bedroom
+    100428: MasterBath
+    100430: Object001
+    100432: Object002
+    100434: Object003
+    100436: Object004
+    100438: Object005
+    100440: Object006
+    100442: Object007
+    100444: Object008
+    100446: Object009
+    100448: Office
+    100450: Office Door
+    100452: Pantry Door
+    100454: Secret Room
+    100456: Stairs
+    100458: Suzy's Door
+    100460: Suzy's Room
+    100462: Thomas' Door
+    100464: Thomas's Room
+    400000: Bathroom
+    400002: Bathroom Ceiling
+    400004: Bathroom Door
+    400006: Bathroom Door 1
+    400008: Box001
+    400010: Box002
+    400012: Box003
+    400014: Box004
+    400016: Box005
+    400018: Box006
+    400020: Box007
+    400022: Box008
+    400024: Box009
+    400026: Box010
+    400028: Box011
+    400030: Box012
+    400032: Box013
+    400034: Box014
+    400036: Box015
+    400038: Box016
+    400040: Box017
+    400042: Box018
+    400044: Box019
+    400046: Box020
+    400048: Box021
+    400050: Box022
+    400052: Box023
+    400054: Box024
+    400056: Box025
+    400058: Box026
+    400060: Box027
+    400062: Box028
+    400064: Box029
+    400066: Box030
+    400068: Box031
+    400070: Box032
+    400072: Box033
+    400074: Box034
+    400076: Box035
+    400078: Box036
+    400080: Box037
+    400082: Box038
+    400084: Box039
+    400086: Box040
+    400088: Box041
+    400090: Box042
+    400092: Box043
+    400094: Box044
+    400096: Box045
+    400098: Box046
+    400100: Box047
+    400102: Box048
+    400104: Box049
+    400106: Box050
+    400108: Box051
+    400110: Box052
+    400112: Box053
+    400114: Box054
+    400116: Box055
+    400118: Box056
+    400120: Box057
+    400122: Box058
+    400124: Box059
+    400126: Box060
+    400128: Box061
+    400130: Closet Door
+    400132: Dining Room
+    400134: Dining Room Ceiling
+    400136: Door
+    400138: Door Knob
+    400140: Door Knob 1
+    400142: Door Knob001
+    400144: Door Knob002
+    400146: Door Knob003
+    400148: Door Knob004
+    400150: Door Knob005
+    400152: Door Knob006
+    400154: Door Knob007
+    400156: Door Knob008
+    400158: Door Knob009
+    400160: Door Knob010
+    400162: Door Knob011
+    400164: Door Knob012
+    400166: Door Knob013
+    400168: Door Knob014
+    400170: Door Knob015
+    400172: Door Knob016
+    400174: Door Knob017
+    400176: Door Knob018
+    400178: Door Knob019
+    400180: Door Knob020
+    400182: Door Knob021
+    400184: Door Knob022
+    400186: Door Knob023
+    400188: Door Knob024
+    400190: Door Knob025
+    400192: Door Knob026
+    400194: Door Latch
+    400196: Door Latch 1
+    400198: Door Latch 2
+    400200: Door Latch001
+    400202: Door Latch002
+    400204: Door Latch003
+    400206: Door Latch004
+    400208: Door Latch005
+    400210: Door Latch006
+    400212: Door Latch007
+    400214: Door Latch008
+    400216: Door Latch009
+    400218: Door Latch010
+    400220: Door Latch011
+    400222: Door Latch012
+    400224: Door Latch013
+    400226: Door Latch014
+    400228: Door Latch015
+    400230: Door Latch016
+    400232: Door Latch017
+    400234: Door Latch018
+    400236: Door Latch019
+    400238: Door Latch020
+    400240: Door Latch021
+    400242: Door Latch022
+    400244: Door Latch023
+    400246: Door Latch024
+    400248: Door Latch025
+    400250: Door Latch026
+    400252: Door Latch027
+    400254: Door Latch028
+    400256: Door Latch029
+    400258: Door Latch030
+    400260: Door Latch031
+    400262: Door Latch032
+    400264: Door Latch033
+    400266: Door Latch034
+    400268: Door Latch035
+    400270: Door Latch036
+    400272: Door Latch037
+    400274: Door Latch038
+    400276: Door Latch039
+    400278: Door001
+    400280: Door002
+    400282: Door003
+    400284: Door004
+    400286: Door005
+    400288: Door006
+    400290: Door007
+    400292: Door008
+    400294: Door009
+    400296: Door010
+    400298: Door011
+    400300: Door012
+    400302: Door013
+    400304: DownStairs Bathroom
+    400306: Family Room
+    400308: Foyer
+    400310: Foyer Ceiling
+    400312: Frame Latch
+    400314: Frame Latch 1
+    400316: Frame Latch 2
+    400318: Frame Latch001
+    400320: Frame Latch002
+    400322: Frame Latch003
+    400324: Frame Latch004
+    400326: Frame Latch005
+    400328: Frame Latch006
+    400330: Frame Latch007
+    400332: Frame Latch008
+    400334: Frame Latch009
+    400336: Frame Latch010
+    400338: Frame Latch011
+    400340: Frame Latch012
+    400342: Frame Latch013
+    400344: Frame Latch014
+    400346: Frame Latch015
+    400348: Frame Latch016
+    400350: Frame Latch017
+    400352: Frame Latch018
+    400354: Frame Latch019
+    400356: Frame Latch020
+    400358: Frame Latch021
+    400360: Frame Latch022
+    400362: Frame Latch023
+    400364: Frame Latch024
+    400366: Frame Latch025
+    400368: Frame Latch026
+    400370: Frame Latch027
+    400372: Frame Latch028
+    400374: Frame Latch029
+    400376: Frame Latch030
+    400378: Frame Latch031
+    400380: Frame Latch032
+    400382: Frame Latch033
+    400384: Frame Latch034
+    400386: Frame Latch035
+    400388: Frame Latch036
+    400390: Frame Latch037
+    400392: Frame Latch038
+    400394: Frame Latch039
+    400396: Front Door
+    400398: Hall Small Door
+    400400: Halls
+    400402: //RootNode
+    400404: Kitchen
+    400406: Kitchen Door
+    400408: Kitchen/Hall Door
+    400410: Kitcken Ceiling
+    400412: Library
+    400414: Library Door
+    400416: Living Room
+    400418: Living Room Door
+    400420: Living Room Second Floor
+    400422: Maste BT Door
+    400424: Master BD Door
+    400426: Master Bedroom
+    400428: MasterBath
+    400430: Object001
+    400432: Object002
+    400434: Object003
+    400436: Object004
+    400438: Object005
+    400440: Object006
+    400442: Object007
+    400444: Object008
+    400446: Object009
+    400448: Office
+    400450: Office Door
+    400452: Pantry Door
+    400454: Secret Room
+    400456: Stairs
+    400458: Suzy's Door
+    400460: Suzy's Room
+    400462: Thomas' Door
+    400464: Thomas's Room
+    2300000: Bathroom
+    2300002: Bathroom Ceiling
+    2300004: Bathroom Door
+    2300006: Bathroom Door 1
+    2300008: Box001
+    2300010: Box002
+    2300012: Box003
+    2300014: Box004
+    2300016: Box005
+    2300018: Box006
+    2300020: Box007
+    2300022: Box008
+    2300024: Box009
+    2300026: Box010
+    2300028: Box011
+    2300030: Box012
+    2300032: Box013
+    2300034: Box014
+    2300036: Box015
+    2300038: Box016
+    2300040: Box017
+    2300042: Box018
+    2300044: Box019
+    2300046: Box020
+    2300048: Box021
+    2300050: Box022
+    2300052: Box023
+    2300054: Box024
+    2300056: Box025
+    2300058: Box026
+    2300060: Box027
+    2300062: Box028
+    2300064: Box029
+    2300066: Box030
+    2300068: Box031
+    2300070: Box032
+    2300072: Box033
+    2300074: Box034
+    2300076: Box035
+    2300078: Box036
+    2300080: Box037
+    2300082: Box038
+    2300084: Box039
+    2300086: Box040
+    2300088: Box041
+    2300090: Box042
+    2300092: Box043
+    2300094: Box044
+    2300096: Box045
+    2300098: Box046
+    2300100: Box047
+    2300102: Box048
+    2300104: Box049
+    2300106: Box050
+    2300108: Box051
+    2300110: Box052
+    2300112: Box053
+    2300114: Box054
+    2300116: Box055
+    2300118: Box056
+    2300120: Box057
+    2300122: Box058
+    2300124: Box059
+    2300126: Box060
+    2300128: Box061
+    2300130: Closet Door
+    2300132: Dining Room
+    2300134: Dining Room Ceiling
+    2300136: Door
+    2300138: Door Knob
+    2300140: Door Knob 1
+    2300142: Door Knob001
+    2300144: Door Knob002
+    2300146: Door Knob003
+    2300148: Door Knob004
+    2300150: Door Knob005
+    2300152: Door Knob006
+    2300154: Door Knob007
+    2300156: Door Knob008
+    2300158: Door Knob009
+    2300160: Door Knob010
+    2300162: Door Knob011
+    2300164: Door Knob012
+    2300166: Door Knob013
+    2300168: Door Knob014
+    2300170: Door Knob015
+    2300172: Door Knob016
+    2300174: Door Knob017
+    2300176: Door Knob018
+    2300178: Door Knob019
+    2300180: Door Knob020
+    2300182: Door Knob021
+    2300184: Door Knob022
+    2300186: Door Knob023
+    2300188: Door Knob024
+    2300190: Door Knob025
+    2300192: Door Knob026
+    2300194: Door Latch
+    2300196: Door Latch 1
+    2300198: Door Latch 2
+    2300200: Door Latch001
+    2300202: Door Latch002
+    2300204: Door Latch003
+    2300206: Door Latch004
+    2300208: Door Latch005
+    2300210: Door Latch006
+    2300212: Door Latch007
+    2300214: Door Latch008
+    2300216: Door Latch009
+    2300218: Door Latch010
+    2300220: Door Latch011
+    2300222: Door Latch012
+    2300224: Door Latch013
+    2300226: Door Latch014
+    2300228: Door Latch015
+    2300230: Door Latch016
+    2300232: Door Latch017
+    2300234: Door Latch018
+    2300236: Door Latch019
+    2300238: Door Latch020
+    2300240: Door Latch021
+    2300242: Door Latch022
+    2300244: Door Latch023
+    2300246: Door Latch024
+    2300248: Door Latch025
+    2300250: Door Latch026
+    2300252: Door Latch027
+    2300254: Door Latch028
+    2300256: Door Latch029
+    2300258: Door Latch030
+    2300260: Door Latch031
+    2300262: Door Latch032
+    2300264: Door Latch033
+    2300266: Door Latch034
+    2300268: Door Latch035
+    2300270: Door Latch036
+    2300272: Door Latch037
+    2300274: Door Latch038
+    2300276: Door Latch039
+    2300278: Door001
+    2300280: Door002
+    2300282: Door003
+    2300284: Door004
+    2300286: Door005
+    2300288: Door006
+    2300290: Door007
+    2300292: Door008
+    2300294: Door009
+    2300296: Door010
+    2300298: Door011
+    2300300: Door012
+    2300302: Door013
+    2300304: DownStairs Bathroom
+    2300306: Family Room
+    2300308: Foyer
+    2300310: Foyer Ceiling
+    2300312: Frame Latch
+    2300314: Frame Latch 1
+    2300316: Frame Latch 2
+    2300318: Frame Latch001
+    2300320: Frame Latch002
+    2300322: Frame Latch003
+    2300324: Frame Latch004
+    2300326: Frame Latch005
+    2300328: Frame Latch006
+    2300330: Frame Latch007
+    2300332: Frame Latch008
+    2300334: Frame Latch009
+    2300336: Frame Latch010
+    2300338: Frame Latch011
+    2300340: Frame Latch012
+    2300342: Frame Latch013
+    2300344: Frame Latch014
+    2300346: Frame Latch015
+    2300348: Frame Latch016
+    2300350: Frame Latch017
+    2300352: Frame Latch018
+    2300354: Frame Latch019
+    2300356: Frame Latch020
+    2300358: Frame Latch021
+    2300360: Frame Latch022
+    2300362: Frame Latch023
+    2300364: Frame Latch024
+    2300366: Frame Latch025
+    2300368: Frame Latch026
+    2300370: Frame Latch027
+    2300372: Frame Latch028
+    2300374: Frame Latch029
+    2300376: Frame Latch030
+    2300378: Frame Latch031
+    2300380: Frame Latch032
+    2300382: Frame Latch033
+    2300384: Frame Latch034
+    2300386: Frame Latch035
+    2300388: Frame Latch036
+    2300390: Frame Latch037
+    2300392: Frame Latch038
+    2300394: Frame Latch039
+    2300396: Front Door
+    2300398: Hall Small Door
+    2300400: Halls
+    2300402: Kitchen
+    2300404: Kitchen Door
+    2300406: Kitchen/Hall Door
+    2300408: Kitcken Ceiling
+    2300410: Library
+    2300412: Library Door
+    2300414: Living Room
+    2300416: Living Room Door
+    2300418: Living Room Second Floor
+    2300420: Maste BT Door
+    2300422: Master BD Door
+    2300424: Master Bedroom
+    2300426: MasterBath
+    2300428: Object001
+    2300430: Object002
+    2300432: Object003
+    2300434: Object004
+    2300436: Object005
+    2300438: Object006
+    2300440: Object007
+    2300442: Object008
+    2300444: Object009
+    2300446: Office
+    2300448: Office Door
+    2300450: Pantry Door
+    2300452: Secret Room
+    2300454: Stairs
+    2300456: Suzy's Door
+    2300458: Suzy's Room
+    2300460: Thomas' Door
+    2300462: Thomas's Room
+    3300000: Bathroom
+    3300002: Bathroom Ceiling
+    3300004: Bathroom Door
+    3300006: Bathroom Door 1
+    3300008: Box001
+    3300010: Box002
+    3300012: Box003
+    3300014: Box004
+    3300016: Box005
+    3300018: Box006
+    3300020: Box007
+    3300022: Box008
+    3300024: Box009
+    3300026: Box010
+    3300028: Box011
+    3300030: Box012
+    3300032: Box013
+    3300034: Box014
+    3300036: Box015
+    3300038: Box016
+    3300040: Box017
+    3300042: Box018
+    3300044: Box019
+    3300046: Box020
+    3300048: Box021
+    3300050: Box022
+    3300052: Box023
+    3300054: Box024
+    3300056: Box025
+    3300058: Box026
+    3300060: Box027
+    3300062: Box028
+    3300064: Box029
+    3300066: Box030
+    3300068: Box031
+    3300070: Box032
+    3300072: Box033
+    3300074: Box034
+    3300076: Box035
+    3300078: Box036
+    3300080: Box037
+    3300082: Box038
+    3300084: Box039
+    3300086: Box040
+    3300088: Box041
+    3300090: Box042
+    3300092: Box043
+    3300094: Box044
+    3300096: Box045
+    3300098: Box046
+    3300100: Box047
+    3300102: Box048
+    3300104: Box049
+    3300106: Box050
+    3300108: Box051
+    3300110: Box052
+    3300112: Box053
+    3300114: Box054
+    3300116: Box055
+    3300118: Box056
+    3300120: Box057
+    3300122: Box058
+    3300124: Box059
+    3300126: Box060
+    3300128: Box061
+    3300130: Closet Door
+    3300132: Dining Room
+    3300134: Dining Room Ceiling
+    3300136: Door
+    3300138: Door Knob
+    3300140: Door Knob 1
+    3300142: Door Knob001
+    3300144: Door Knob002
+    3300146: Door Knob003
+    3300148: Door Knob004
+    3300150: Door Knob005
+    3300152: Door Knob006
+    3300154: Door Knob007
+    3300156: Door Knob008
+    3300158: Door Knob009
+    3300160: Door Knob010
+    3300162: Door Knob011
+    3300164: Door Knob012
+    3300166: Door Knob013
+    3300168: Door Knob014
+    3300170: Door Knob015
+    3300172: Door Knob016
+    3300174: Door Knob017
+    3300176: Door Knob018
+    3300178: Door Knob019
+    3300180: Door Knob020
+    3300182: Door Knob021
+    3300184: Door Knob022
+    3300186: Door Knob023
+    3300188: Door Knob024
+    3300190: Door Knob025
+    3300192: Door Knob026
+    3300194: Door Latch
+    3300196: Door Latch 1
+    3300198: Door Latch 2
+    3300200: Door Latch001
+    3300202: Door Latch002
+    3300204: Door Latch003
+    3300206: Door Latch004
+    3300208: Door Latch005
+    3300210: Door Latch006
+    3300212: Door Latch007
+    3300214: Door Latch008
+    3300216: Door Latch009
+    3300218: Door Latch010
+    3300220: Door Latch011
+    3300222: Door Latch012
+    3300224: Door Latch013
+    3300226: Door Latch014
+    3300228: Door Latch015
+    3300230: Door Latch016
+    3300232: Door Latch017
+    3300234: Door Latch018
+    3300236: Door Latch019
+    3300238: Door Latch020
+    3300240: Door Latch021
+    3300242: Door Latch022
+    3300244: Door Latch023
+    3300246: Door Latch024
+    3300248: Door Latch025
+    3300250: Door Latch026
+    3300252: Door Latch027
+    3300254: Door Latch028
+    3300256: Door Latch029
+    3300258: Door Latch030
+    3300260: Door Latch031
+    3300262: Door Latch032
+    3300264: Door Latch033
+    3300266: Door Latch034
+    3300268: Door Latch035
+    3300270: Door Latch036
+    3300272: Door Latch037
+    3300274: Door Latch038
+    3300276: Door Latch039
+    3300278: Door001
+    3300280: Door002
+    3300282: Door003
+    3300284: Door004
+    3300286: Door005
+    3300288: Door006
+    3300290: Door007
+    3300292: Door008
+    3300294: Door009
+    3300296: Door010
+    3300298: Door011
+    3300300: Door012
+    3300302: Door013
+    3300304: DownStairs Bathroom
+    3300306: Family Room
+    3300308: Foyer
+    3300310: Foyer Ceiling
+    3300312: Frame Latch
+    3300314: Frame Latch 1
+    3300316: Frame Latch 2
+    3300318: Frame Latch001
+    3300320: Frame Latch002
+    3300322: Frame Latch003
+    3300324: Frame Latch004
+    3300326: Frame Latch005
+    3300328: Frame Latch006
+    3300330: Frame Latch007
+    3300332: Frame Latch008
+    3300334: Frame Latch009
+    3300336: Frame Latch010
+    3300338: Frame Latch011
+    3300340: Frame Latch012
+    3300342: Frame Latch013
+    3300344: Frame Latch014
+    3300346: Frame Latch015
+    3300348: Frame Latch016
+    3300350: Frame Latch017
+    3300352: Frame Latch018
+    3300354: Frame Latch019
+    3300356: Frame Latch020
+    3300358: Frame Latch021
+    3300360: Frame Latch022
+    3300362: Frame Latch023
+    3300364: Frame Latch024
+    3300366: Frame Latch025
+    3300368: Frame Latch026
+    3300370: Frame Latch027
+    3300372: Frame Latch028
+    3300374: Frame Latch029
+    3300376: Frame Latch030
+    3300378: Frame Latch031
+    3300380: Frame Latch032
+    3300382: Frame Latch033
+    3300384: Frame Latch034
+    3300386: Frame Latch035
+    3300388: Frame Latch036
+    3300390: Frame Latch037
+    3300392: Frame Latch038
+    3300394: Frame Latch039
+    3300396: Front Door
+    3300398: Hall Small Door
+    3300400: Halls
+    3300402: Kitchen
+    3300404: Kitchen Door
+    3300406: Kitchen/Hall Door
+    3300408: Kitcken Ceiling
+    3300410: Library
+    3300412: Library Door
+    3300414: Living Room
+    3300416: Living Room Door
+    3300418: Living Room Second Floor
+    3300420: Maste BT Door
+    3300422: Master BD Door
+    3300424: Master Bedroom
+    3300426: MasterBath
+    3300428: Object001
+    3300430: Object002
+    3300432: Object003
+    3300434: Object004
+    3300436: Object005
+    3300438: Object006
+    3300440: Object007
+    3300442: Object008
+    3300444: Object009
+    3300446: Office
+    3300448: Office Door
+    3300450: Pantry Door
+    3300452: Secret Room
+    3300454: Stairs
+    3300456: Suzy's Door
+    3300458: Suzy's Room
+    3300460: Thomas' Door
+    3300462: Thomas's Room
+    4300000: Foyer
+    4300002: Foyer Ceiling
+    4300004: Family Room
+    4300006: Object001
+    4300008: DownStairs Bathroom
+    4300010: Bathroom Ceiling
+    4300012: Living Room
+    4300014: Dining Room
+    4300016: Dining Room Ceiling
+    4300018: Kitchen
+    4300020: Kitcken Ceiling
+    4300022: Halls
+    4300024: Object002
+    4300026: Living Room Second Floor
+    4300028: Object008
+    4300030: Thomas's Room
+    4300032: Object003
+    4300034: Secret Room
+    4300036: Object006
+    4300038: Suzy's Room
+    4300040: Object004
+    4300042: Library
+    4300044: Object007
+    4300046: Bathroom
+    4300048: Office
+    4300050: Object005
+    4300052: Master Bedroom
+    4300054: Object009
+    4300056: MasterBath
+    4300058: Stairs
+    4300060: Front Door
+    4300062: Door
+    4300064: Door Knob
+    4300066: Door Knob
+    4300068: Door Latch
+    4300070: Door Latch
+    4300072: Door Latch
+    4300074: Frame Latch
+    4300076: Frame Latch
+    4300078: Frame Latch
+    4300080: Kitchen/Hall Door
+    4300082: Door001
+    4300084: Door Knob001
+    4300086: Door Knob002
+    4300088: Door Latch001
+    4300090: Door Latch002
+    4300092: Door Latch003
+    4300094: Frame Latch001
+    4300096: Frame Latch002
+    4300098: Frame Latch003
+    4300100: Pantry Door
+    4300102: Door002
+    4300104: Door Knob003
+    4300106: Door Knob004
+    4300108: Door Latch004
+    4300110: Door Latch005
+    4300112: Door Latch006
+    4300114: Frame Latch004
+    4300116: Frame Latch005
+    4300118: Frame Latch006
+    4300120: Bathroom Door
+    4300122: Door003
+    4300124: Door Knob005
+    4300126: Door Knob006
+    4300128: Door Latch007
+    4300130: Door Latch008
+    4300132: Door Latch009
+    4300134: Frame Latch007
+    4300136: Frame Latch008
+    4300138: Frame Latch009
+    4300140: Kitchen Door
+    4300142: Door004
+    4300144: Door Knob007
+    4300146: Door Knob008
+    4300148: Door Latch010
+    4300150: Door Latch011
+    4300152: Door Latch012
+    4300154: Frame Latch010
+    4300156: Frame Latch011
+    4300158: Frame Latch012
+    4300160: Living Room Door
+    4300162: Door005
+    4300164: Door Knob009
+    4300166: Door Knob010
+    4300168: Door Latch013
+    4300170: Door Latch014
+    4300172: Door Latch015
+    4300174: Frame Latch013
+    4300176: Frame Latch014
+    4300178: Frame Latch015
+    4300180: Hall Small Door
+    4300182: Office Door
+    4300184: Door006
+    4300186: Door Knob011
+    4300188: Door Knob012
+    4300190: Door Latch016
+    4300192: Door Latch017
+    4300194: Door Latch018
+    4300196: Frame Latch016
+    4300198: Frame Latch017
+    4300200: Frame Latch018
+    4300202: Library Door
+    4300204: Door007
+    4300206: Door Knob013
+    4300208: Door Knob014
+    4300210: Door Latch019
+    4300212: Door Latch020
+    4300214: Door Latch021
+    4300216: Frame Latch019
+    4300218: Frame Latch020
+    4300220: Frame Latch021
+    4300222: Master BD Door
+    4300224: Door008
+    4300226: Door Knob015
+    4300228: Door Knob016
+    4300230: Door Latch022
+    4300232: Door Latch023
+    4300234: Door Latch024
+    4300236: Frame Latch022
+    4300238: Frame Latch023
+    4300240: Frame Latch024
+    4300242: Closet Door
+    4300244: Door009
+    4300246: Door Knob017
+    4300248: Door Knob018
+    4300250: Door Latch025
+    4300252: Door Latch026
+    4300254: Door Latch027
+    4300256: Frame Latch025
+    4300258: Frame Latch026
+    4300260: Frame Latch027
+    4300262: Maste BT Door
+    4300264: Door010
+    4300266: Door Knob019
+    4300268: Door Knob020
+    4300270: Door Latch028
+    4300272: Door Latch029
+    4300274: Door Latch030
+    4300276: Frame Latch028
+    4300278: Frame Latch029
+    4300280: Frame Latch030
+    4300282: Suzy's Door
+    4300284: Door011
+    4300286: Door Knob021
+    4300288: Door Knob022
+    4300290: Door Latch031
+    4300292: Door Latch032
+    4300294: Door Latch033
+    4300296: Frame Latch031
+    4300298: Frame Latch032
+    4300300: Frame Latch033
+    4300302: Thomas' Door
+    4300304: Door012
+    4300306: Door Knob023
+    4300308: Door Knob024
+    4300310: Door Latch034
+    4300312: Door Latch035
+    4300314: Door Latch036
+    4300316: Frame Latch034
+    4300318: Frame Latch035
+    4300320: Frame Latch036
+    4300322: Bathroom Door
+    4300324: Door013
+    4300326: Door Knob025
+    4300328: Door Knob026
+    4300330: Door Latch037
+    4300332: Door Latch038
+    4300334: Door Latch039
+    4300336: Frame Latch037
+    4300338: Frame Latch038
+    4300340: Frame Latch039
+    4300342: Box001
+    4300344: Box002
+    4300346: Box003
+    4300348: Box004
+    4300350: Box005
+    4300352: Box006
+    4300354: Box007
+    4300356: Box008
+    4300358: Box009
+    4300360: Box010
+    4300362: Box011
+    4300364: Box012
+    4300366: Box013
+    4300368: Box014
+    4300370: Box015
+    4300372: Box016
+    4300374: Box017
+    4300376: Box018
+    4300378: Box019
+    4300380: Box020
+    4300382: Box021
+    4300384: Box022
+    4300386: Box023
+    4300388: Box024
+    4300390: Box025
+    4300392: Box026
+    4300394: Box027
+    4300396: Box028
+    4300398: Box029
+    4300400: Box030
+    4300402: Box031
+    4300404: Box032
+    4300406: Box033
+    4300408: Box034
+    4300410: Box035
+    4300412: Box036
+    4300414: Box037
+    4300416: Box038
+    4300418: Box039
+    4300420: Box040
+    4300422: Box041
+    4300424: Box042
+    4300426: Box043
+    4300428: Box044
+    4300430: Box045
+    4300432: Box046
+    4300434: Box047
+    4300436: Box048
+    4300438: Box049
+    4300440: Box050
+    4300442: Box051
+    4300444: Box052
+    4300446: Box053
+    4300448: Box054
+    4300450: Box055
+    4300452: Box056
+    4300454: Box057
+    4300456: Box058
+    4300458: Box059
+    4300460: Box060
+    4300462: Box061
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

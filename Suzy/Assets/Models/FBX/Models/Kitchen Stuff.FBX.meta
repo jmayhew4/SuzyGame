@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 246e1d721de0e0c45bf3cd7343da532e
+timeCreated: 1493085405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box011
+    100002: Box012
+    100004: Box024
+    100006: Cabinet
+    100008: Cabinet 1
+    100010: Cabinet 2
+    100012: Cabinet 3
+    100014: Cabinet 4
+    100016: Corner Cabinet
+    100018: Corner Counter
+    100020: Counter
+    100022: Counter 1
+    100024: Counter 2
+    100026: Counter 3
+    100028: Counter 4
+    100030: Counter 5
+    100032: Cylinder001
+    100034: Cylinder002
+    100036: Cylinder003
+    100038: Cylinder004
+    100040: Cylinder005
+    100042: Fridge
+    100044: Fridge Door
+    100046: Fridge Door 1
+    100048: //RootNode
+    100050: Sink Cabinet
+    100052: Stove
+    400000: Box011
+    400002: Box012
+    400004: Box024
+    400006: Cabinet
+    400008: Cabinet 1
+    400010: Cabinet 2
+    400012: Cabinet 3
+    400014: Cabinet 4
+    400016: Corner Cabinet
+    400018: Corner Counter
+    400020: Counter
+    400022: Counter 1
+    400024: Counter 2
+    400026: Counter 3
+    400028: Counter 4
+    400030: Counter 5
+    400032: Cylinder001
+    400034: Cylinder002
+    400036: Cylinder003
+    400038: Cylinder004
+    400040: Cylinder005
+    400042: Fridge
+    400044: Fridge Door
+    400046: Fridge Door 1
+    400048: //RootNode
+    400050: Sink Cabinet
+    400052: Stove
+    2300000: Box011
+    2300002: Box012
+    2300004: Box024
+    2300006: Cabinet
+    2300008: Cabinet 1
+    2300010: Cabinet 2
+    2300012: Cabinet 3
+    2300014: Cabinet 4
+    2300016: Corner Cabinet
+    2300018: Corner Counter
+    2300020: Counter
+    2300022: Counter 1
+    2300024: Counter 2
+    2300026: Counter 3
+    2300028: Counter 4
+    2300030: Counter 5
+    2300032: Cylinder001
+    2300034: Cylinder002
+    2300036: Cylinder003
+    2300038: Cylinder004
+    2300040: Cylinder005
+    2300042: Fridge
+    2300044: Fridge Door
+    2300046: Fridge Door 1
+    2300048: Sink Cabinet
+    2300050: Stove
+    3300000: Box011
+    3300002: Box012
+    3300004: Box024
+    3300006: Cabinet
+    3300008: Cabinet 1
+    3300010: Cabinet 2
+    3300012: Cabinet 3
+    3300014: Cabinet 4
+    3300016: Corner Cabinet
+    3300018: Corner Counter
+    3300020: Counter
+    3300022: Counter 1
+    3300024: Counter 2
+    3300026: Counter 3
+    3300028: Counter 4
+    3300030: Counter 5
+    3300032: Cylinder001
+    3300034: Cylinder002
+    3300036: Cylinder003
+    3300038: Cylinder004
+    3300040: Cylinder005
+    3300042: Fridge
+    3300044: Fridge Door
+    3300046: Fridge Door 1
+    3300048: Sink Cabinet
+    3300050: Stove
+    4300000: Counter
+    4300002: Corner Counter
+    4300004: Counter
+    4300006: Counter
+    4300008: Counter
+    4300010: Counter
+    4300012: Counter
+    4300014: Stove
+    4300016: Cylinder004
+    4300018: Cylinder002
+    4300020: Cylinder005
+    4300022: Cylinder001
+    4300024: Cylinder003
+    4300026: Sink Cabinet
+    4300028: Fridge
+    4300030: Fridge Door
+    4300032: Box011
+    4300034: Fridge Door
+    4300036: Box012
+    4300038: Cabinet
+    4300040: Corner Cabinet
+    4300042: Cabinet
+    4300044: Cabinet
+    4300046: Cabinet
+    4300048: Cabinet
+    4300050: Box024
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
